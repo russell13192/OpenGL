@@ -1,0 +1,1 @@
+g++ -o shadersTriangle main.cpp -lglfw -lGL -lGLU -lGLEW
